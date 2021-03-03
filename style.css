@@ -84,7 +84,7 @@ body {
 
 .star:nth-child(1) {
   top: calc(20% - 20px);
-  left: calc(0% + 5px);
+  left: calc(1% + 5px);
   animation-delay: 1.2s;
 }
 
@@ -95,7 +95,7 @@ body {
 
 .star:nth-child(2) {
   top: calc(34% - 40px);
-  left: calc(0% + 10px);
+  left: calc(1% + 10px);
   animation-delay: 1.6s;
 }
 
@@ -106,7 +106,7 @@ body {
 
 .star:nth-child(3) {
   top: calc(50% - 60px);
-  left: calc(20% + 15px);
+  left: calc(22% + 15px);
   animation-delay: 1.4s;
 }
 
